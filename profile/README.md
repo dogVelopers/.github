@@ -12,4 +12,4 @@ DogVelopers
 
 ### 형제 동아리
 
-- [GDSC at SKHU](https://github.com/GDSC-at-SKHU)
+- [GDSC SKHU](https://github.com/GDSC-SKHU)
